@@ -1,33 +1,8 @@
 # CodeAnt AI Project Assignment
 
-# Images of the App :memo:
-![Image 1](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/1.png?raw=true)
-![Image 2](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/2.png?raw=true)
-![Image 3](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/3.png?raw=true)
-![Image 4](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/4.png?raw=true)
-![Image 5](https://github.com/Neel-max-cpu/project_assignment/blob/main/public/5.png?raw=true)
-
-
-# References
-- **Chat GPT**
-- **V0(by vercel)**
-- **YouTube**
-- **Shadcn documentation**
-
-## Overview
-This is the given assignment for a frontend internship at CodeAnt AI.
-
-## Check the video for the brief of the project without running here  -> [Link](https://youtu.be/RxTaOd8njWU) ⭐
-
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [How to Run](#how-to-run)
-
-
 ## Technologies Used
 - **Frontend**: React.js+vite
-- **Styling**: Shadcn Ui, Material Ui and custom Tailwind CSS for responsive design
+- **Styling**: Shadcn Ui, Material Ui and Tailwind CSS for responsive design
 - **Version Control**: Git & GitHub
 
 ## Installation
