@@ -14,7 +14,7 @@ Ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Neel-max-cpu/project_assignment.git
+git clone https://github.com/AdityaKumar2408/CodeAnt_Assessment.git
 ```
 
 ### Step 2: Navigate to the Project Directory
